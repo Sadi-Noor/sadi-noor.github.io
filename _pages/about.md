@@ -6,7 +6,7 @@ subtitle: <a href='https://www.thepilgrims-school.co.uk/_site/data/images/news/9
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info:
 
