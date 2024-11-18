@@ -2,11 +2,11 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: sadi noor ✼
+title: <b>sadi noor</b>
 first_name: Sadi
 middle_name:
 last_name: Noor
-email: sdnr314@ucla.edu
+email: you@example.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   a collection of works and workings.
 footer_text:
