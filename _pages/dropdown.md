@@ -1,15 +1,16 @@
 ---
 layout: page
-title: submenus
+title: quickmenu
 nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: fun stuff
-    permalink: https://www.youtube.com/watch?v=p32OC97aNqc
+  - title: resume
+    permalink: /cv/
   - title: divider
-  - title: projects
-    permalink: /projects/
-  - title: blog
-    permalink: /blog/
+  - title: github
+    permalink: https://github.com/sadi-noor
+  - title: divider
+  - title: linkedin
+    permalink: https://www.linkedin.com/in/sadi-noor/
 ---
