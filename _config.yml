@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: sadiworld # the website title (if blank, full name will be used instead)
+title: sadi noor ✼
 first_name: Sadi
 middle_name:
 last_name: Noor
@@ -133,8 +133,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: commonplace # blog_name will be displayed in your blog page
-blog_description:
+blog_name: the common place # blog_name will be displayed in your blog page
+blog_description: pretty much a blog?
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
