@@ -1,12 +1,10 @@
-- title: General Information
+- title: General
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Sadi Noor
     - name: Languages
-      value: English, German
+      value: Strange thing to put up front in an example, isn"'"t it?
 
 - title: Education
   type: time_table
