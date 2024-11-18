@@ -1,6 +1,6 @@
 ---
 layout: page
-title: quickmenu
+title: connect
 nav: true
 nav_order: 8
 dropdown: true
