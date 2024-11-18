@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: about me
 permalink: /
 subtitle: <a href='https://www.thepilgrims-school.co.uk/_site/data/images/news/992/main-9%2024-Nov.png'>a work in progress</a>.
 
@@ -9,11 +9,11 @@ profile:
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>sdnr314 [at] ucla [dot] edu</p>
+    <p>try to put social links with icons here</p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 Hi : ^) [example](http://reddit.com). That's me to the side there, probably.
