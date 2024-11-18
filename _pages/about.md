@@ -1,7 +1,8 @@
 ---
 layout: about
-title: about me
+title: about
 permalink: /
+nav: false
 subtitle: <a href='https://www.thepilgrims-school.co.uk/_site/data/images/news/992/main-9%2024-Nov.png'>a work in progress</a>.
 
 profile:
