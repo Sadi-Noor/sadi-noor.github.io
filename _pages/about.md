@@ -2,23 +2,22 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>a work in progress</a>.
+subtitle: <a href='https://www.thepilgrims-school.co.uk/_site/data/images/news/992/main-9%2024-Nov.png'>a work in progress</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>----------</p>
+  more_info:
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi :] [example](http://reddit.com). That's me to the side there, mhm mhm.
+Hi :] [example](http://reddit.com). That's me to the side there, probably.
 
-I have a little info about myself below that picture too. 
+I removed the info box below my name because the font was gaudy(?) 
 
 I found this useful method to link to any page, here's [the blog page](/blog/).
 
